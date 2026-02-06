@@ -27,7 +27,7 @@
     height: 200px;
     justify-items: flex;
     margin-top: 40px;
-    content-visibility: 40%;
+    margin-right: 20px
 }
 
 .menu-item h4{
@@ -84,6 +84,7 @@ nav ul{
     font-size: 1rem;
 }
 }
+
 
 
 
