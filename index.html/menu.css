@@ -13,8 +13,7 @@
     background-color: orange;
     width: 400px;
     margin-top: 5px;
-    margin-block: 3px;
-    height: 290px;
+    height: 300px;
     margin-block: 5px;
 }
 
@@ -27,8 +26,8 @@
     border-radius: 8px;
     height: 200px;
     justify-items: flex;
-    margin-top: 20px;
-    
+    margin-top: 40px;
+    content-visibility: visible;
 }
 
 .menu-item h4{
