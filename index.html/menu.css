@@ -3,6 +3,7 @@
     grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
     gap: 1.5rem;
     margin-left: 15%;
+    justify-items: center;
 }
 
 .menu-item{
@@ -84,6 +85,7 @@ nav ul{
     font-size: 1rem;
 }
 }
+
 
 
 
