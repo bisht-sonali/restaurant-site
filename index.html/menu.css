@@ -6,12 +6,13 @@
 }
 
 .menu-item{
-    border: 1px;
+    border: 3px;
     border-radius: 10px;
-    padding: 4px;
+    padding: 40px;
     text-align: center;
     background-color: orange;
     width: 400px;
+    margin-top: 5px;
 }
 
 .menu-item:hover{
@@ -19,11 +20,11 @@
 }
 
 .menu-item img{
-    width: 300px;
+    width: 400px;
     height: 150px;
     object-fit: cover;
     border-radius: 8px;
-    height: 350px;
+    height: 500px;
     
 }
 
