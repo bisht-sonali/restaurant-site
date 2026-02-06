@@ -25,6 +25,7 @@
     object-fit: cover;
     border-radius: 8px;
     height: 500px;
+    justify-items: flex;
     
 }
 
@@ -39,7 +40,7 @@
 
 header{
     text-align: center;
-    font-size: 85px;
+    font-size: 40px;
      background-color: yellow;
      text-decoration: underline;
 }
