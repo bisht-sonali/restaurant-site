@@ -15,7 +15,7 @@
     margin-top: 5px;
     height: 300px;
     margin-block: 5px;
-    justify-items: center;
+    justify-content: center;
 }
 
 .menu-item:hover{
@@ -85,6 +85,7 @@ nav ul{
     font-size: 1rem;
 }
 }
+
 
 
 
